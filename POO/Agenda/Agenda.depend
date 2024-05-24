@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1674959654 source:c:\users\halon\desktop\tareas cucei\tercer semestre\poo\agenda\main.cpp
+	<iostream>
+	<locale.h>
+

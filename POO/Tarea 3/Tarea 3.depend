@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680925125 source:c:\users\halon\desktop\tareas cucei\tercer semestre\poo\tarea 3\main.cpp
+	<iostream>
+	<locale.h>
+
